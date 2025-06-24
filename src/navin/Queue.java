@@ -41,5 +41,6 @@ class Runner1{
         queue.enQueue(23);
         queue.enQueue(23);
         queue.show();
+        queue.show();
     }
 }
