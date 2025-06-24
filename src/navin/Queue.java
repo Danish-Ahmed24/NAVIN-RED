@@ -41,6 +41,7 @@ class Runner1{
         queue.enQueue(23);
         queue.enQueue(23);
         queue.show();
+        //to show diff
         queue.show();
     }
 }
